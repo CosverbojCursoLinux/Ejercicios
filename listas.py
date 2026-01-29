@@ -1,12 +1,4 @@
-alumnos = [
-    {"nombre": "Ana", "edad": 20},
-    {"nombre": "Luis", "edad": 22},
-    {"nombre": "María", "edad": 21}
-]
 
-for alumno in alumnos:
-    print(alumno["nombre"], alumno["edad"])
-    
 
 # Lista de frutas
 frutas = ["manzana", "naranja", "plátano", "uva"]
